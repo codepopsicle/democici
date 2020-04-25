@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">HelloWorldDemo</string>
-    <string name="hello_world">Hello world with CI Intgeration!</string>
+    <string name="hello_world">Hello world with CI Intgeration - Telegram Integration!</string>
     <string name="menu_settings">Settings</string>
 
 </resources>
